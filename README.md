@@ -2,8 +2,5 @@
 
 "Added to the readme file" 
 
-"Third Change"
+“Change made in dazzling_feature to provoke conflict”
 
-“Change added in dazzling_feature branch.”
-
-"Change made in main branch" 
