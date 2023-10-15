@@ -7,3 +7,5 @@
 "test change"
 
 "CHANGE MADE IN TEST Branch (change in testbranch for conflict)"
+
+"Change made from collaborators terminal"
