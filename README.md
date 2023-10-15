@@ -6,4 +6,4 @@
 
 "test change"
 
-"CHANGE MADE IN TEST Branch (change from master branch)"
+"CHANGE MADE IN TEST Branch (change in testbranch for conflict)"
